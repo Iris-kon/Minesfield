@@ -15,7 +15,7 @@ The application was developed with Next applying the following concepts:
 ![home](https://github.com/Thiago-kon/Minesfield/blob/main/assets/design/minesfield-home.jpg)
 
 <b>Difficult selection:</b>
-![dfselection](https://github.com/Thiago-kon/Minesfield/blob/main/assets/design/minesfield-warning.jpg)
+![dfselection](https://github.com/Thiago-kon/Minesfield/blob/main/assets/design/minesfield-dfselection.jpg)
 
 <b>Warning:</b>
 ![warning](https://github.com/Thiago-kon/Minesfield/blob/main/assets/design/minesfield-warning.jpg)
