@@ -32,6 +32,8 @@ Copy the project to the desired folder with the following command:
 
 ### `git clone https://github.com/Thiago-kon/Minesfield`
 
+Install [Expo](https://docs.expo.dev/get-started/installation/)
+
 Install dependences with:
 
 ### `yarn install` or `npm install`
