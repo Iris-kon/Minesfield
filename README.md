@@ -12,13 +12,13 @@ The application was developed with Next applying the following concepts:
 
 <b>Home:</b>
 
-![home](https://github.com/Thiago-kon/Minesfield/blob/main/assets/design/minesfield-home.jpg)
+![home](https://github.com/Iris-kon/Minesfield/blob/main/assets/design/minesfield-home.jpg)
 
 <b>Difficult selection:</b>
-![dfselection](https://github.com/Thiago-kon/Minesfield/blob/main/assets/design/minesfield-dfselection.jpg)
+![dfselection](https://github.com/Iris-kon/Minesfield/blob/main/assets/design/minesfield-dfselection.jpg)
 
 <b>Warning:</b>
-![warning](https://github.com/Thiago-kon/Minesfield/blob/main/assets/design/minesfield-warning.jpg)
+![warning](https://github.com/Iris-kon/Minesfield/blob/main/assets/design/minesfield-warning.jpg)
 
 
 ## Used Technologies
@@ -30,7 +30,7 @@ The project utilises the following technologies:
 ## Run project
 Copy the project to the desired folder with the following command:
 
-### `git clone https://github.com/Thiago-kon/Minesfield`
+### `git clone https://github.com/Iris-kon/Minesfield`
 
 Install [Expo](https://docs.expo.dev/get-started/installation/)
 
